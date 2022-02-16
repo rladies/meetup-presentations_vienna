@@ -1,0 +1,37 @@
+---
+title: "Introduction to R"
+author: "RLadies Vienna Team"
+date: "April 11, 2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What is R?
+
+* R is a language and environment for statistical computing and graphics. 
+
+* R is available as Free Software under the terms of the Free Software Foundation's GNU General Public License in source code form. 
+
+<!-- * One of R's strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. -->
+
+* R is an object-oriented programming language.
+
+* It is easily extensible through packages.
+
+* Firms like Google, Pfizer, Bank of America, Amazon and Microsoft use R for their statistical analyses.  
+
+[https://www.r-project.org/](https://www.r-project.org/)
+
+## RStudio 
+
+* RStudio is an integrated development environment (IDE) for R. 
+
+* It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.
+
+* RStudio is available in open source and commercial editions.
+
+* RStudio runs on the desktop (Windows, Mac, and Linux) or in a browser connected to RStudio Server or RStudio Server Pro (Debian/Ubuntu, RedHat/CentOS, and SUSE Linux).
+
