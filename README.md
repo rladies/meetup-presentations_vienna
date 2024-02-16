@@ -14,4 +14,6 @@ https://rladies-vienna-maelle.netlify.app/#/
 * The slides from the 2021 May Meetup with Ursula Laa can be found at https://uschilaa.github.io/ggplot_workshop_rladies/#1
 
 * The slides from the 2023 April Meetup with Sherry Zhang can be found at https://sherryzhang-rladiesvienna2023.netlify.app/
+  
+* The material for the 2024 February Meetup with Pia Pfeiffer (Introduction to R) can be found at https://github.com/piapfeiffer/intro-to-R/tree/main
 
